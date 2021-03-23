@@ -1,0 +1,12 @@
+:root {
+	--header-bg-color: #eeebec;
+	--menu-item-no-active: #5f5a5a;
+	--menu-item-active: #cb3362;
+	--bg-home-color: #f8f8f8;
+	--color-white: white;
+	--new-product-bg-color:rgb(234,231,232);
+	--my-text-color1: #E32A62;
+	--my-text-color2: #7A6666;
+	--menu-horizontal-bg-color: #c8c10d;
+	--footer-bg-color: #cb3362;
+}
